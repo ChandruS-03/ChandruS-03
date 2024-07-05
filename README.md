@@ -1,5 +1,5 @@
 ## Hi there 👋
-![image](https://github.com/ChandruS-03/ChandruS-03/assets/146056254/0b086a7d-736c-4e52-b696-885d26311563)
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
 
 
 <!--

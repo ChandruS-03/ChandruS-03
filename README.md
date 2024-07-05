@@ -21,3 +21,8 @@
 
 #### Project management Stack
 <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" alt="github" title="github" width="40" height="40"/>
+
+#### Tools
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png" alt="colab" title="colab" width="40" height="40"/>
+<img src="https://miro.medium.com/v2/resize:fit:1358/0*P1qb2gH5iSX3r8Qe.png" alt="jupyternotebook" title="jupyternotebook" width="40" height="40"/>
+

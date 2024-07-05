@@ -1,5 +1,6 @@
 ## Hi there 👋
-![image](https://github.com/ChandruS-03/ChandruS-03/assets/146056254/ebc5caae-cdeb-4766-a357-9f7909a504a1)
+![image](https://github.com/ChandruS-03/ChandruS-03/assets/146056254/0b086a7d-736c-4e52-b696-885d26311563)
+
 
 <!--
 **ChandruS-03/ChandruS-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

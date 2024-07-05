@@ -30,7 +30,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png" alt="colab" title="colab" width="60" height="40"/>
 <img src="https://nightingalehq.ai/knowledgebase/glossary/what-is-jupyter/jupyter.jpg" alt="jupyternotebook" title="jupyternotebook" width="60" height="40"/>
 
-Let's Connect
+<p align="center">Let's Connect..
+</p>
 
 I'm always excited to connect with fellow data enthusiasts, professionals, and mentors. Feel free to reach out to me through [your preferred contact method or social media handle] if you have any questions, suggestions, or just want to discuss data science!
 

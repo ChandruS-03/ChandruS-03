@@ -33,7 +33,9 @@
 <p align="center">Let's Connect..
 </p>
 
-I'm always excited to connect with fellow data enthusiasts, professionals, and mentors.
+I'm always excited to connect with fellow data enthusiasts, collaborate on interesting projects, and learn from others in the field. Whether you have questions, want to discuss data science topics, or are interested in potential collaboration, feel free to reach out to me via <a href="https://www.linkedin.com/in/chandru-s-58856b267/" target="_blank" rel="noreferrer">LinkedIn</a>
+
+Looking forward to connecting!
 
 <p align="center">
 Happy analyzing!

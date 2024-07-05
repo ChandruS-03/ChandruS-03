@@ -24,5 +24,5 @@
 
 #### Tools
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png" alt="colab" title="colab" width="60" height="40"/>
-<img src="https://nightingalehq.ai/knowledgebase/glossary/what-is-jupyter/jupyter.jpg" alt="jupyternotebook" title="jupyternotebook" width="60" height="50"/>
+<img src="https://nightingalehq.ai/knowledgebase/glossary/what-is-jupyter/jupyter.jpg" alt="jupyternotebook" title="jupyternotebook" width="60" height="40"/>
 

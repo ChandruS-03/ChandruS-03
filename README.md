@@ -33,7 +33,7 @@
 <p align="center">Let's Connect..
 </p>
 
-I'm always excited to connect with fellow data enthusiasts, professionals, and mentors. Feel free to reach out to me through [your preferred contact method or social media handle] if you have any questions, suggestions, or just want to discuss data science!
+I'm always excited to connect with fellow data enthusiasts, professionals, and mentors.
 
 <p align="center">
 Happy analyzing!

@@ -30,6 +30,11 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png" alt="colab" title="colab" width="60" height="40"/>
 <img src="https://nightingalehq.ai/knowledgebase/glossary/what-is-jupyter/jupyter.jpg" alt="jupyternotebook" title="jupyternotebook" width="60" height="40"/>
 
+#### Editor/IDE
+<img src="https://repository-images.githubusercontent.com/657248114/d3c7b91a-b285-4d1e-8429-5de1acc5f61e" alt="vs-code" title="vs-code" width="40" height="40"/>
+<img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/rstudio_94807.png" alt="rstudio" title="rstudio" width="40" height="40"/>
+
+
 <p align="center">Let's Connect..
 </p>
 

@@ -14,8 +14,8 @@
 
 #### Frameworks and Libraries
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-NEICv1aGTvDRncdvM_fXoah5SNWx4pXAvg&s" alt="pandas" title="pandas" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png" alt="numpy" title="numpy" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="scikitlearn" title="scikitlearn" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png" alt="numpy" title="numpy" width="60" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="scikitlearn" title="scikitlearn" width="60" height="40"/>
 <img src="https://media.licdn.com/dms/image/D4D12AQFq38cGkv_oHQ/article-cover_image-shrink_600_2000/0/1679493396295?e=2147483647&v=beta&t=VbHivrsD3KbirknCmH5nq0TIEZxtIi7u2PuZXXiOYow" alt="matplotlib" title="matplotlib" width="40" height="40"/>
 
 

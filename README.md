@@ -26,9 +26,9 @@
 <img src="https://nightingalehq.ai/knowledgebase/glossary/what-is-jupyter/jupyter.jpg" alt="jupyternotebook" title="jupyternotebook" width="60" height="40"/>
 
 #### Editor/IDE
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdZ7bKbm3ERJE1kRDBndCZLGr7nCIgTYaMxA&s" alt="eclipse" title="eclipse" width="70" height="40"/>
 <img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" alt="vs-code" title="vs-code" width="40" height="40"/>
 <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/rstudio_94807.png" alt="rstudio" title="rstudio" width="40" height="40"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdZ7bKbm3ERJE1kRDBndCZLGr7nCIgTYaMxA&s" alt="eclipse" title="eclipse" width="60" height="40"/>
 
 
 <p align="center">Let's Connect..

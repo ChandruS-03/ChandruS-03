@@ -28,6 +28,7 @@
 #### Editor/IDE
 <img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" alt="vs-code" title="vs-code" width="40" height="40"/>
 <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/rstudio_94807.png" alt="rstudio" title="rstudio" width="40" height="40"/>
+<img src="https://miro.medium.com/v2/resize:fit:540/1*nNTk-j2uaKhxyj3GXsYNdg.png" alt="eclipse" title="eclipse" width="40" height="40"/>
 
 
 <p align="center">Let's Connect..

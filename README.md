@@ -1,7 +1,7 @@
 <h1 align="center"><font face="Arial">Hi 👋, I'm <a href="https://www.linkedin.com/in/chandru-s-58856b267/" target="_blank" rel="noreferrer">Chandru S</a>
 <h3 align="center"><font face="Arial">I am a Computer Science Student from India, working with Python and C.</font></h3>
 
-  Hello! I'm Chandru S, a dedicated data science student with a passion for uncovering insights from data and turning them into actionable knowledge. My journey has equipped me with an understandable foundation in statistics, programming, and machine learning. I am enthusiastic about applying my skills to real-world problems and continuously expanding my knowledge in this ever-evolving field.
+  Hello! I'm Chandru S, a computer science student with a passion for expressing my skills in a real-time environment. My journey has equipped me with an understandable statistics, programming, and machine learning foundation. I am enthusiastic about applying my skills to real-world problems and continuously expanding my knowledge in this ever-evolving field.
 
   
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
@@ -35,7 +35,7 @@
 <p align="center">Let's Connect..
 </p>
 
-I'm always excited to connect with fellow data enthusiasts, collaborate on interesting projects, and learn from others in the field. Whether you have questions, want to discuss data science topics, or are interested in potential collaboration, feel free to reach out to me via <a href="https://www.linkedin.com/in/chandru-s-58856b267/" target="_blank" rel="noreferrer">LinkedIn</a>
+I'm always excited to connect with fellow data enthusiasts, collaborate on interesting projects, and learn from others in the field. Whether you have questions, want to discuss data science topics, or are interested in a potential collaboration, feel free to reach out to me via <a href="https://www.linkedin.com/in/chandru-s-58856b267/" target="_blank" rel="noreferrer">LinkedIn</a>
 
 Looking forward to connecting!
 
